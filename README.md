@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/claurey/dicegame)
-- [Live Site URL](https://claurey.github.io/dicegame/)
+- [Solution URL](https://github.com/claurey/dice-game)
+- [Live Site URL](https://claurey.github.io/dice-game/)
 
 ## My process
 
